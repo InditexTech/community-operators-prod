@@ -1,0 +1,40 @@
+operators/redkey-operator/0.2.1/bundle.Dockerfile
+  h_daebd220e3f9d7 1-26
+operators/redkey-operator/0.2.1/manifests/redkey-operator-controller-manager-metrics-service_v1_service.yaml
+  h_daebd220e3f9d7 1-20
+operators/redkey-operator/0.2.1/manifests/redkey-operator-metrics-reader_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-10
+operators/redkey-operator/0.2.1/manifests/redkey-operator-redkey-admin-role_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-21
+operators/redkey-operator/0.2.1/manifests/redkey-operator-redkey-editor-role_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-27
+operators/redkey-operator/0.2.1/manifests/redkey-operator-redkey-viewer-role_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-23
+operators/redkey-operator/0.2.1/manifests/redkey-operator-redkeyconfig-admin-role_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-21
+operators/redkey-operator/0.2.1/manifests/redkey-operator-redkeyconfig-editor-role_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-27
+operators/redkey-operator/0.2.1/manifests/redkey-operator-redkeyconfig-viewer-role_rbac.authorization.k8s.io_v1_clusterrole.yaml
+  h_daebd220e3f9d7 1-23
+operators/redkey-operator/0.2.1/manifests/redkey-operator.clusterserviceversion.yaml
+  h_daebd220e3f9d7 1-764
+operators/redkey-operator/0.2.1/manifests/redkey.inditex.dev_redkeyconfigs.yaml
+  h_daebd220e3f9d7 1-9588
+operators/redkey-operator/0.2.1/manifests/redkey.inditex.dev_redkeys.yaml
+  h_daebd220e3f9d7 1-18036
+operators/redkey-operator/0.2.1/metadata/annotations.yaml
+  h_daebd220e3f9d7 1-17
+operators/redkey-operator/0.2.1/tests/scorecard/config.yaml
+  h_daebd220e3f9d7 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "c7eaacb68e2e0efaae50fcab1a3833b0deec8122",
+  "prompts": {},
+  "humans": {
+    "h_daebd220e3f9d7": {
+      "author": "Alberto Martínez Pérez <albertompe@ext.inditex.com>"
+    }
+  }
+}
